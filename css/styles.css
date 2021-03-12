@@ -154,6 +154,7 @@ img:nth-child(5){
 .contenedor-precios{
     display: flex;
     justify-content: space-evenly;
+    flex-wrap: wrap;
     padding: 20px;
     
 }
